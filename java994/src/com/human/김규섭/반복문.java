@@ -343,6 +343,104 @@ public class 반복문 {
 //		
 //		System.out.println(a+","+c);
 		
+	
+//		
+//		for(int i=0;i<=100;i++) {
+//			
+//			if(i%10==0) {
+//				
+//				System.out.println(i+":"+(int)((i-32)/1.8F));
+//			}
+//		}
+//		int a=Integer.parseInt(sc.nextLine());
+//		
+//		
+//			for(int i=0;i<a;i++) {
+//				System.out.print("*");
+//			}
+	
+//		int a=Integer.parseInt(sc.nextLine());
+//		int sum=0;
+//		int b=0;
+//		for(int i=0;i<=a;i++) {
+//			sum=i*i;
+//			b=b+sum;
+//		}
+//		
+//		System.out.println(sum);
+//		System.out.println(b);
+//		String A="";
+//		int B=0;
+//		int acount=1000;
+//		
+//		while(!A.equals("3")) {
+//			
+//			
+//			System.out.println("+,-,3");
+//			A=sc.nextLine();
+//			
+//			switch(A) {
+//			case "+":
+//				System.out.println("+");
+//				System.out.println("?");
+//				B=Integer.parseInt(sc.nextLine());
+//				if(B>0) {
+//					System.out.println("+="+B+"");
+//				acount=acount+B;
+//				}else {
+//					System.out.println("잘못된 입력입니다.");
+//				}
+//				System.out.println("n"+acount);
+//				break;
+//			case "-":
+//				System.out.println("-");
+//				System.out.println("?");
+//				B=Integer.parseInt(sc.nextLine());
+//				acount=acount-B;
+//				System.out.println("-="+B+"n"+acount+"입니다");
+//				break;
+//			
+//			case "3":
+//				System.out.println("상담을 종료합니다 ");
+//				break;
+//				
+//			default:
+//				System.out.println("잘못된입력입니다");
+//				break;
+//			}
+//		}System.out.println("끗 ");
+		
+//		int a=Integer.parseInt(sc.nextLine());
+//		boolean b=true;
+//		for(int i=2;i<a;i++) {
+//		if( a%i == 0) {
+//            	b= false;
+//            	System.out.println("d");
+//            	break; 
+//		}else {
+//			b=true;
+//			System.out.println("s");
+//		}
+//		}
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
