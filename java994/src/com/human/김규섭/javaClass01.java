@@ -1,9 +1,6 @@
 package com.human.±è±Ô¼·;
 import java.util.*;
-class Cat{
-	public String name;
-	public int age;	
-}
+
 public class javaClass01 {
 
 	public static void main(String[] args) {
